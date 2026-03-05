@@ -1,0 +1,5 @@
+com\carrefour\delivery\infrastructure\security\SecurityIntegrationTest.class
+com\carrefour\delivery\infrastructure\web\controller\IntegrationTest.class
+com\carrefour\delivery\domain\service\TimeSlotDomainServiceTest.class
+com\carrefour\delivery\domain\service\ReservationDomainServiceTest.class
+com\carrefour\delivery\infrastructure\security\JwtServiceTest.class
